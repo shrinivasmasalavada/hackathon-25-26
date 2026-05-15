@@ -3,7 +3,7 @@ This platform helps you learn about hackathons, develop your skills, and partici
 🚀 Steps to Follow While Attending a Hackathon
 Understand the Problem Statement
 Carefully read and analyze the problem before starting.
-Form a Good Team
+Form a Good Team 
 Choose teammates with different skills (coding, design, presentation).
 Plan Your Idea
 Discuss and finalize a simple, practical, and innovative solution.
